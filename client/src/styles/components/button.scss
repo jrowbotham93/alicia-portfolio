@@ -1,0 +1,10 @@
+.Button {
+  transition: background-color 0.2s;
+  cursor: pointer;
+  outline: none;
+  font-weight: 300;
+  line-height: normal;
+}
+.Button:hover{
+  background-color: inherit;
+}
